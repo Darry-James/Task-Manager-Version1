@@ -51,15 +51,13 @@
 <textarea name="description"  placeholder="Description"  cols="5" rows="5" class="form-control"></textarea>
 
 </div>
+</div>
 
 
 
 <div class="form-group  text-center">
 
 <button type="submit" class="btn btn-success">Create Todo</button>
-
- 
-
 
 </div>
 
