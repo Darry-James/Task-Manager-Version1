@@ -44,13 +44,15 @@
 <input type="text" class="form-control" placeholder="Name" name="name">
 
 
+ </div> 
+
 <div class="fomr-group">
 
 <textarea name="description"  placeholder="Description"  cols="5" rows="5" class="form-control"></textarea>
 
 </div>
 
-</div>
+
 
 <div class="form-group  text-center">
 
